@@ -25,6 +25,8 @@ The output is not an error
 
 ```
 cd
+pwd
+/home
 ```
 The working directory is /home/lecture1/messages
 The cd command brings me back to the home directory because I did not give it any argument
@@ -32,6 +34,8 @@ The output is not an error
 
 ```
 cd lecture1/
+pwd
+/home/lecture1
 ```
 The working directory is home directory
 The cd command changes my directory to the lecture1 directory
