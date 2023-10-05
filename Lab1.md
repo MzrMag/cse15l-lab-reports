@@ -41,3 +41,11 @@ The working directory is home directory
 The cd command changes my directory to the lecture1 directory
 the output is not an error
 
+```
+cd lecture1/messages/en-us.txt
+bash: cd: lecture1/messages/en-us.txt: Not a directory
+```
+The working directory is home directory
+The cd command tries to change my directory to a file but it cannot do it because it only works for changing directories not a specifc file
+the output is not an error
+
