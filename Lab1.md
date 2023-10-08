@@ -71,4 +71,7 @@ Hello World!
 ```
 The working directory is /home/lecture1/messages.
 cat command is used to display contents of files so it shows the message within the en-us.txt file.
+
+
+![Image](meme1.jpg)
 The output is not an error. 
