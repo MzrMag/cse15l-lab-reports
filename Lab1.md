@@ -4,7 +4,7 @@ ls
 lecture1
 ```
 The working directory is home directory.
-I am getting this output because ls will list out files and directories this current director contains.
+I am getting this output because ls will list out files and directories this current directory contains.
 The output is not an error.
 
 ```
@@ -12,7 +12,7 @@ ls lecture1/
 Hello.class  Hello.java  messages  README
 ```
 The working directory is still home directory
-I am getting this output because ls lists out files and directories within the lecture1 directory
+I am getting this output because "ls lecture1/" lists out files and directories within the lecture1 directory
 The output is not an error
 
 ```
@@ -20,7 +20,7 @@ ls en-us.txt
 en-us.txt
 ```
 The working directory is /home/lecture1/messages.
-I am getting this ouput because ...
+I am getting this ouput because ls command simply confirms that this file exits by displaying its name. 
 The output is not an error
 
 ```
